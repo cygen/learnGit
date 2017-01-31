@@ -1,7 +1,7 @@
 This is a sample Repo
 
 
-Hey this is the DEv branch
+This is the Master Branch
 
 Hey how are you? 
 * Well Lets add few more lines to the file 1
