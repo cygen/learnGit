@@ -1,11 +1,9 @@
 This is a sample Repo
 
 Hey how are you? 
-* Well Lets add few more lines to the file a
-* Well Lets add few more lines to the file b
-* Well Lets add few more lines to the file c
-* Well Lets add few more lines to the file d
-* Well Lets add few more lines to the file e
+* Well Lets add few more lines to the file 1
+* Well Lets add few more lines to the file 2
+* Well Lets add few more lines to the file 4
+* Well Lets add few more lines to the file 5
 
-
-Hello 
+## Updated
